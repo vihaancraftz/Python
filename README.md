@@ -1,2 +1,2 @@
-# Python
-IGCSE year 1 Comp Sci python submissions
+# IGCSE Python
+IGCSE Year-1 Submissions For computer science AY 26-27
