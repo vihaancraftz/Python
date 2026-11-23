@@ -27,3 +27,13 @@ newlist = [x for x in fruits if x !="apple"]
 
 #with no if statement:
 newlist = [x for x in fruits]
+
+#iterable
+# the iterable can be any iterable object, like a list, tuple, set etc.
+
+newlist = [x for x in range(10)]
+
+#expression
+#expression is the current item in the iteration, but it is also the outcome, which you can manipulate before it ends ip like a list item in the new list:
+
+newlist = [x.upper() for x in fruits]
